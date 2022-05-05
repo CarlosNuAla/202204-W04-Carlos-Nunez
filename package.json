@@ -1,6 +1,7 @@
 {
   "name": "202204-w04-carlos-nunez",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
