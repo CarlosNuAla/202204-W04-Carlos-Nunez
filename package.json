@@ -1,5 +1,5 @@
 {
-  "name": "week-4",
+  "name": "202204-w04-carlos-nunez",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,13 @@
   },
   "author": "Carlos Núñez",
   "license": "ISC",
-  "prettier":{
-      "singleQuote": true
+  "prettier": {
+    "singleQuote": true
+  },
+  "devDependencies": {
+    "eslint": "^8.14.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0"
   }
 }
